@@ -80,8 +80,3 @@ Developed a **full-stack MERN application** that centralizes task management, en
 4. Start backend and frontend servers
 
 
-* Add a **deployment + README badge**
-* Convert this into a **GitHub README that recruiters LOVE**
-* Or rewrite **all your READMEs to match resume style consistently**
-
-Say the word.
